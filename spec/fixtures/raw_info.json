@@ -1,0 +1,30 @@
+{
+  "user_id": 65869,
+  "account_idfk": 134774,
+  "email": "test_user@example.com",
+  "firstname": "Test",
+  "lastname": "User",
+  "position_title": null,
+  "phone": "912345670",
+  "mobile": null,
+  "time_zone": "India Standard Time",
+  "iana_timezone": "Asia/Kolkata",
+  "is_team_member": true,
+  "company_idfk": null,
+  "company_name": null,
+  "default_billable_rate": null,
+  "default_cost_rate": null,
+  "monday_available_hours": 8.0,
+  "tuesday_available_hours": 8.0,
+  "wednesday_available_hours": 8.0,
+  "thursday_available_hours": 8.0,
+  "friday_available_hours": 8.0,
+  "saturday_available_hours": null,
+  "sunday_available_hours": null,
+  "roles": [
+     { "role_code": "Admin", "role_name": "Administrator" },
+     { "role_code": "PM", "role_name": "Portfolio Manager" },
+     { "role_code": "ScheduleUser", "role_name": "Schedule User" }
+   ],
+  "tags": []
+}
